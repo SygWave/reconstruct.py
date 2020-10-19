@@ -16,15 +16,15 @@ Reconstruct social links to privacy-friendly front-ends via command line
 
 * Run script with full direct link to YouTube channel or video
 
-## Test Cases
+## Testing
 
 * To test for bugs, try converting links:
 
   * With random capitalization in the platform name, and/or...
   
-  * ...with(out) parentheses at the end, and/or...
+  * ...with(out) a forward slash at the end, and/or...
   
-  * ...with extra URL query parameters at the end, and/or...
+  * ...with URL query parameters at the end, and/or...
   
   * ...with tracking information at the end
   
