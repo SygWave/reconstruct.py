@@ -29,6 +29,7 @@ Reconstruct social links to privacy-friendly front-ends via command line
   * Output:
 
       https://bibliogram.art/p/CGIxEaWD69G/
+      
       https://nitter.net/twitter
 
 ## Testing
