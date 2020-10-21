@@ -1,6 +1,6 @@
 import sys
 
-# Reconstruct social links to privacy-friendly front-ends
+# Reconstruct social links to privacy-friendly front-ends via command line
 def reconstruct(url: str) -> str:
     com = ".com/"
 
@@ -19,17 +19,17 @@ def reconstruct(url: str) -> str:
         if instagram in platform_lower and "p/" in subdirectory:
             return "https://bibliogram.art/" + key
 
-        # ...Else if instagram in platform_lower then url is treated as Instagram post
+        # ...Elif instagram in platform_lower then url is treated as Instagram post
         elif instagram in platform_lower:
             return "https://bibliogram.art/u/" + key
 
         # Twitter -> Nitter
-        # Else if twitter in platform_lower then url is treated as Twitter profile or tweet
+        # Elif twitter in platform_lower then url is treated as Twitter profile or tweet
         elif twitter in platform_lower:
             return "https://nitter.net/" + key
 
         # YouTube -> Invidious
-        # Else if youtube in platform_lower then url is treated as YouTube channel or video
+        # Elif youtube in platform_lower then url is treated as YouTube channel or video
         elif youtube in platform_lower:
             return "https://invidious.site/" + key
 
