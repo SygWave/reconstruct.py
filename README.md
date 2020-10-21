@@ -16,6 +16,14 @@ Reconstruct social links to privacy-friendly front-ends via command line
 
 * Run script with full direct link to YouTube channel or video
 
+## Usage
+
+* `python ./reconstruct.py "full direct link here between quotes"`
+
+* Example: `python reconstruct.py "https://www.instagram.com/instagram/?hl=en"`
+
+  * Output: `https://bibliogram.art/u/instagram/?hl=en`
+
 ## Testing
 
 * To test for bugs, try converting links:
