@@ -40,11 +40,11 @@ def reconstruct(url: str) -> str:
             else:
                 return ""
 
-        # Else com is not in url
+        # Else return empty str
         else:
             return ""
 
-    # Else url is a non-empty str then return empty str
+    # Else return empty str
     else:
         return ""
 
