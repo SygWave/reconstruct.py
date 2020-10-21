@@ -22,7 +22,9 @@ Reconstruct social links to privacy-friendly front-ends via command line
 
 * Example 1: `python reconstruct.py https://www.instagram.com/instagram/?hl=en`
 
-  * Output: `https://bibliogram.art/u/instagram/?hl=en`
+  * Output:
+  
+        https://bibliogram.art/u/instagram/?hl=en
 
 * Example 2: `python reconstruct.py https://www.instagram.com/p/CGIxEaWD69G/ https://twitter.com/twitter`
 
