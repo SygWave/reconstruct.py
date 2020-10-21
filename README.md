@@ -18,11 +18,18 @@ Reconstruct social links to privacy-friendly front-ends via command line
 
 ## Usage
 
-* `./python.exe ./reconstruct.py "full direct link here between quotes"`
+* `./python.exe ./reconstruct.py full-direct-link-here`
 
-* Example: `python reconstruct.py "https://www.instagram.com/instagram/?hl=en"`
+* Example 1: `python reconstruct.py https://www.instagram.com/instagram/?hl=en`
 
   * Output: `https://bibliogram.art/u/instagram/?hl=en`
+
+* Example 2: `python reconstruct.py https://www.instagram.com/p/CGIxEaWD69G/ https://twitter.com/twitter`
+
+  * Output:
+
+      https://bibliogram.art/p/CGIxEaWD69G/
+      https://nitter.net/twitter
 
 ## Testing
 
