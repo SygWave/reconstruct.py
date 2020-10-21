@@ -6,15 +6,15 @@ Reconstruct social links to privacy-friendly front-ends via command line
 
 ### Instagram -> [Bibliogram](https://github.com/cloudrac3r/bibliogram)
 
-Run script with full direct link to Instagram profile or post
+Run script with full direct link to Instagram profile or post as an argument
 
 ### Twitter -> [Nitter](https://github.com/zedeus/nitter)
 
-Run script with full direct link to Twitter profile or tweet
+Run script with full direct link to Twitter profile or tweet as an argument
 
 ### YouTube -> [Invidious](https://github.com/iv-org/invidious)
 
-Run script with full direct link to YouTube channel or video
+Run script with full direct link to YouTube channel or video as an argument
 
 ## Usage
 
