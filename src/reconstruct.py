@@ -43,4 +43,4 @@ def reconstruct(url: str) -> str:
 
 # Driver
 for url in sys.argv:
-    print(reconstruct(url))
+    print(reconstruct(str(url)))
