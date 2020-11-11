@@ -88,4 +88,4 @@ https://www.youtube.com/watch?v=IPLaajIJq8M -> https://invidious.site/watch?v=IP
 
 ## Owner
 
-SygWave
+[SygWave](https://sygwave.github.io)
