@@ -66,6 +66,11 @@ If you come across a bug, please create an issue and/or submit a pull request!
 [https://www.instagram.com/instagram/?hl=en] -> [https://bibliogram.art/u/instagram/?hl=en]
 [https://www.instagram.com/p/CGIxEaWD69G/] -> [https://bibliogram.art/p/CGIxEaWD69G/]
 
+### Reddit Test Links
+
+[https://www.reddit.com/r/popular/] -> [https://www.teddit.net/r/popular/]
+[https://www.reddit.com/r/space/comments/ka2wtn/so_close/] -> [https://www.teddit.net/r/space/comments/ka2wtn/so_close/]
+
 ### Twitter Test Links
 
 [https://twitter.com/twitter] -> [https://nitter.net/twitter]
