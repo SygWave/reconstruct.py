@@ -51,15 +51,15 @@ python reconstruct.py "https://www.instagram.com/p/CGIxEaWD69G/" "https://twitte
 
 To test for bugs, try converting links:
 
-* With random capitalization in the platform name, and/or...
+* With random capitalization in the platform name, or...
   
-* ...with(out) a forward slash at the end, and/or...
+* ...with(out) a forward slash at the end, or...
   
-* ...with URL query parameters at the end, and/or...
+* ...with URL query parameters at the end, or...
   
 * ...with tracking information at the end
   
-If you come across a bug, please create an issue and/or submit a pull request!
+If you come across a bug, please create an issue or submit a pull request!
 
 ### Instagram Test Links
 
