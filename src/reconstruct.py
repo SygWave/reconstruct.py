@@ -1,6 +1,7 @@
+# Reconstruct social links to privacy-friendly front-ends via command line
+
 import sys
 
-# Reconstruct social links to privacy-friendly front-ends via command line
 def reconstruct(url: str) -> str:
     com = ".com/"
 
